@@ -2,7 +2,7 @@ from calculator import Calculator
 
 def main():
     calc = Calculator()
-    print("Calculator Demo:")
+    print("=== CALCULATOR DEMO ===")
     print(f"5 + 3 = {calc.add(5, 3)}")
     print(f"10 - 4 = {calc.subtract(10, 4)}")
     
